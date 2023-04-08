@@ -47,12 +47,12 @@ Here are some ideas to get you started:
 <p><img align="center" width="2000" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushManglik&theme=2077" alt="ayushmanglik" /></p>
 
 
-<p><img align="center" width="495" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyushManglik&theme=2077" alt="Top_Languages_by_Repo" /> &nbsp;&nbsp;&nbsp;
-<img align="center" width="495" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AyushManglik&theme=2077" alt="Top_Languages_by_comit" /></p>
+<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyushManglik&theme=2077" alt="Top_Languages_by_Repo" /> &nbsp;&nbsp;&nbsp;
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AyushManglik&theme=2077" alt="Top_Languages_by_comit" /></p>
 
 
-<p><img align="center" width="495" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyushManglik&theme=2077" alt="Top_Languages_by_Repo" /> &nbsp;&nbsp;&nbsp;
-<img align="center" width="495" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AyushManglik&theme=2077&utcOffset=8" alt="Top_Languages_by_comit" /></p>
+<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyushManglik&theme=2077" alt="Top_Languages_by_Repo" /> &nbsp;&nbsp;&nbsp;
+<img align="center"  src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AyushManglik&theme=2077&utcOffset=8" alt="Top_Languages_by_comit" /></p>
 
 
 
