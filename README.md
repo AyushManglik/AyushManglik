@@ -16,6 +16,12 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Ayush Manglik</h1>
 <h3 align="center">A developer from India</h3>
+<div align="center">
+  
+  <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ff1493&size=36&lines=‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎+Hey!+It's+Ayush+Manglik!;I'm+from+GLA+University;I'm+a+Web+Developer.;❤+Java+LeetCode+web3.0;I+❤+DSA..)](https://git.io/typing-svg)
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushmanglik&label=Profile%20views&color=0e75b6&style=flat" alt="ayushmanglik" /> </p>
 
